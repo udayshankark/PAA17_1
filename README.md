@@ -172,6 +172,6 @@ By Uday Kemburu
 # 4. Future Improvements:
 #    - Regular model retraining with new campaign data
 
-# LINK to the notebook: https://github.com/udayshankark/PAA11_1/blob/master/prompt_II.ipynb
+# LINK to the notebook: https://github.com/udayshankark/PAA17_1/blob/master/prompt_III.ipynb
 
-# Visualization images and report(used_car_sales.pdf) are located in the /images folder : https://github.com/udayshankark/PAA11_1/tree/master/images
+# Visualization images  are located in the /data folder : https://github.com/udayshankark/PAA17_1/tree/master/data
