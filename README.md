@@ -174,4 +174,4 @@ By Uday Kemburu
 
 # LINK to the notebook: https://github.com/udayshankark/PAA17_1/blob/master/prompt_III.ipynb
 
-# Visualization images  are located in the /data folder : https://github.com/udayshankark/PAA17_1/tree/master/data
+# Visualization images and Summary.pdf are located in the /data folder : https://github.com/udayshankark/PAA17_1/tree/master/data
